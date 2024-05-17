@@ -1,6 +1,7 @@
 team_1=input("write first team ")
 team_2=input("write second team ")
 # real madrid vs dortmud
+#I love real madrid
 if "real madrid"==team_1 and "dortmud"==team_2:
     print("real madrid has won 999999999999999999999999999999999-0")
 elif "jiventus"==team_1 and "bayern"==team_2:
